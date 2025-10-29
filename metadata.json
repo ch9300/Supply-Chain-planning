@@ -1,0 +1,5 @@
+{
+  "name": "Supply Chain Demand Forecasting and Inventory Management Simulator",
+  "description": "An interactive web application for simulating supply chain demand forecasting and inventory management to aid in material planning and strategic decision-making.",
+  "requestFramePermissions": []
+}
